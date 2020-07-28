@@ -3,5 +3,5 @@
 
 <div class="card">
   <h1>Mane Stepanyan</h1>
-  <img src="https://i.pinimg.com/564x/3c/f7/34/3cf734ecdd1b5a69408bbc6505e3d2d6.jpg" alt="" style= width="400" height="400">
+  <img src="https://i.pinimg.com/564x/3c/f7/34/3cf734ecdd1b5a69408bbc6505e3d2d6.jpg" alt="" style= width="500" height="400">
 </div>
