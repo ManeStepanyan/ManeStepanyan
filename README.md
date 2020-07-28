@@ -3,7 +3,5 @@
 
 <div class="card">
   <h1>Mane Stepanyan</h1>
-  <img src="https://static.vecteezy.com/packs/media/components/util/logos/eezy-logo--white-9af94245d36f5ecc885e9c1a33329b1b.svg style="width:1%">
-  <p class="title">Software engineer</p>
-  <p>Yerevan State University</p>
+  <img src="https://i.pinimg.com/564x/3c/f7/34/3cf734ecdd1b5a69408bbc6505e3d2d6.jpg style="width:1%">
 </div>
