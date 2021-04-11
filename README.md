@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mane Stepanyan</h1>
 <h3 align="center">Software engineer from Armenia</h3>
 
-<a href="https://www.linkedin.com/in/mane-stepanyan-a3a871bb/">
-<img src='https://github.com/VanHakobyan/VanHakobyan/blob/master/github.jpg'>
-</a>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManeStepanyan&label=Profile%20views&color=0e75b6&style=flat" alt="vanhakobyan" /> </p>
 
