@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mane Stepanyan</h1>
-<h3 align="center">Software engineer from Armenia</h3>
+<h3 align="center">Software Engineer from Armenia</h3>
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ManeStepanyan&label=Profile%20views&color=0e75b6&style=flat" alt="vanhakobyan" /> </p>
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/mane_step" target="blank"><img src="https://img.shields.io/twitter/follow/mane_step?logo=twitter&style=for-the-badge" alt="manestep" /></a> </p>
 
-- 🌱 I’m currently learning .NET 5 **C# 9, ASP.NET CORE 5**
+- 🌱 I’m currently learning .NET 6 **C# 10, ASP.NET CORE 6**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ManeStepanyan?tab=repositories](https://github.com/ManeStepanyan?tab=repositories)
 
